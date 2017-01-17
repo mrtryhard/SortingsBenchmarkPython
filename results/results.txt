@@ -1,0 +1,61 @@
+Début des tests, 30 tests par tailles:
+Tests 10000 éléments...
+	résultats:
+		counting_sort:	0.46799999999999997
+		heap_sort:	0.06066666666666677
+		radix_sort:	0.06299999999999982
+		quick_sort:	0.03599999999999994
+Tests 20000 éléments...
+	résultats:
+		counting_sort:	0.9440000000000001
+		heap_sort:	0.1959999999999998
+		radix_sort:	0.1986666666666664
+		quick_sort:	0.11199999999999997
+Tests 40000 éléments...
+	résultats:
+		counting_sort:	1.435333333333334
+		heap_sort:	0.49499999999999933
+		radix_sort:	0.4876666666666667
+		quick_sort:	0.27766666666666706
+Tests 80000 éléments...
+	résultats:
+		counting_sort:	1.9859999999999993
+		heap_sort:	1.2026666666666643
+		radix_sort:	1.1523333333333348
+		quick_sort:	0.6786666666666643
+Tests 160000 éléments...
+	résultats:
+		counting_sort:	2.5163333333333315
+		heap_sort:	2.6366666666666636
+		radix_sort:	2.3590000000000004
+		quick_sort:	1.4696666666666696
+Tests 320000 éléments...
+	résultats:
+		counting_sort:	3.1460000000000017
+		heap_sort:	5.925333333333318
+		radix_sort:	4.964666666666673
+		quick_sort:	3.194999999999993
+Tests 640000 éléments...
+	résultats:
+		counting_sort:	3.8589999999999973
+		heap_sort:	12.341666666666644
+		radix_sort:	9.761000000000005
+		quick_sort:	6.562999999999988
+Tests 1280000 éléments...
+	résultats:
+		counting_sort:	4.791999999999975
+		heap_sort:	25.331000000000003
+		radix_sort:	19.156999999999947
+		quick_sort:	13.470333333333361
+Tests 2560000 éléments...
+	résultats:
+		counting_sort:	6.181333333333288
+		heap_sort:	53.85200000000001
+		radix_sort:	38.431999999999896
+		quick_sort:	28.423000000000055
+Tests 5160000 éléments...
+	résultats:
+		counting_sort:	2.4583333333333455
+		heap_sort:	72.75766666666668
+		radix_sort:	42.20600000000005
+		quick_sort:	36.20499999999999
